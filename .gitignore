@@ -1,0 +1,32 @@
+# Compilados Java
+/bin/
+/build/
+/out/
+*.class
+
+# Arquivos de log
+*.log
+
+# Dependências
+/.gradle/
+/target/
+/.gradle/
+/mvnw
+/mvnw.cmd
+/.mvn/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+*.swp
+*.swo
+
+# Configurações específicas já existentes
+/shelf/
+/workspace.xml
